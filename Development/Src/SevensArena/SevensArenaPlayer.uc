@@ -1,0 +1,3 @@
+SevensArenaPlayer extends UTPlayerController;
+
+
